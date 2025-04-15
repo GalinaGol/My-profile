@@ -7,7 +7,7 @@
   
         <div class="grid grid-cols-1 md:grid-cols-2 sm:grid-cols-1 gap-8">
           <div class="bg-white dark:bg-light rounded-lg p-6 shadow hover:shadow-lg transition-shadow">
-            <h4 class="text-xl font-semibold text-gray-700 dark:text-primary mb-2">Project One</h4>
+            <h4 class="text-xl font-semibold text-gray-700 dark:text-primary mb-2">Web application for managing and booking artist services</h4>
             <p class="text-gray-500 mb-6 whitespace-pre-line">
                 Under NDA
             </p>
@@ -67,7 +67,7 @@
           </div>
           <div class="dark:bg-light bg-white rounded-lg p-6 shadow hover:shadow-lg transition-shadow">
             <h4 class="text-xl font-semibold text-gray-700 dark:text-primary mb-2">Book Catalog</h4>
-            <p class="text-gray-500 mb-6 whitespace-pre-line">This is a pet project built using modern technologies.</p>
+            <p class="text-gray-500 mb-6 whitespace-pre-line">This is a pet project built using modern technologies.He is just in the process😉</p>
             <div class="flex flex-wrap gap-2 mb-4">
                 <span class="px-3 py-1 text-sm bg-primary/20 text-primary-light rounded-full">Vue 3</span>
                 <span class="px-3 py-1 text-sm bg-primary/20 text-primary-light rounded-full">Nuxt</span>
