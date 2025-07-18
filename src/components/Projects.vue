@@ -91,10 +91,35 @@
                     </a>
                 </div>
           </div>
+          <div class="dark:bg-light bg-white rounded-lg p-6 shadow hover:shadow-lg transition-shadow">
+            <h4 class="text-xl font-semibold text-gray-700 dark:text-primary mb-2">TravelMates</h4>
+            <p class="text-gray-500 mb-6 whitespace-pre-line">TravelMates is my pet project — a single-page application for travelers to manage their profile, share posts, mark visited countries on a map, and plan future trips 🗺.</p>
+            <div class="flex flex-wrap gap-2 mb-4">
+                <span class="px-3 py-1 text-sm bg-primary/20 text-primary-light rounded-full">Vue.js 3</span>
+                <span class="px-3 py-1 text-sm bg-primary/20 text-primary-light rounded-full">TypeScript</span>
+                <span class="px-3 py-1 text-sm bg-primary/20 text-primary-light rounded-full">Pinia</span>
+                <span class="px-3 py-1 text-sm bg-primary/20 text-primary-light rounded-full">VueRouter</span>
+                <span class="px-3 py-1 text-sm bg-primary/20 text-primary-light rounded-full">Vite</span>
+                <span class="px-3 py-1 text-sm bg-primary/20 text-primary-light rounded-full">Tailwind CSS</span>
+                <span class="px-3 py-1 text-sm bg-primary/20 text-primary-light rounded-full">Node.js (Express.js)</span>
+                <span class="px-3 py-1 text-sm bg-primary/20 text-primary-light rounded-full">MongoDB</span>
+                <span class="px-3 py-1 text-sm bg-primary/20 text-primary-light rounded-full">Multer</span>
+                <span class="px-3 py-1 text-sm bg-primary/20 text-primary-light rounded-full">Vercel</span>
+                <span class="px-3 py-1 text-sm bg-primary/20 text-primary-light rounded-full">Render</span>
+            </div>
+            <div class="flex gap-4">
+                <a href="https://travel-mates-project.vercel.app" target="_blank" rel="noopener noreferrer" class="flex items-center gap-2 text-primary-light hover:text-primary transition-colors">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-external-link w-4 h-4">
+                        <path d="M15 3h6v6"></path><path d="M10 14 21 3"></path>
+                        <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                    </svg>
+                    Demo
+                </a>
+                </div>
+          </div>
         </div>
       </div>
     </section>
   </template>
   
   <script setup></script>
-  
