@@ -18,7 +18,7 @@
                         Hi, I am Halyna Holovchenko 👋
                     </h1>
                     <p class="dark:text-light text-dark-gray-300 pt-6 mx-auto lg:mx-0 max-w-xl">
-                        I'm really happy you stopped by 🙌. This portfolio is one of my proud little pet projects — built while sharpening my frontend skills 💫
+                        I'm really happy you stopped by 🙌
                     </p>
                     
 

@@ -4,14 +4,8 @@
             <div class="max-w-4xl mx-auto">
                 <h2 class="text-3xl md:text-4xl font-bold dark:text-light text-primary mb-6 text-center ">About me</h2>
                 <p class="dark:text-gray-400 text-gray-600 mb-12 whitespace-pre-line text-center">
-                    Frontend Developer with 3 years of experience building scalable and user-friendly web applications. I
-                    have commercial experience developing web applications, including a CMS for a security company, an
-                    online store, and a CMS for a web application for managing and booking artist services. My uniqueness
-                    lies in my extensive experience in various fields such as international logistics, public service, and
-                    the development of environmental documentation for enterprises. This gives me a broad perspective and
-                    allows me to approach development with the mindset of an experienced user. My greatest value and
-                    motivation are working in an amazing company with talented professionals whose experience is valuable to
-                    me.
+                   Frontend Developer with 3+ years of experience delivering scalable web applications.
+                   Worked on commercial projects including CMS and CRM systems. Experienced in building products from scratch, maintaining and improving existing solutions, migrating from legacy versions, selecting the tech stack, and designing architecture for small-scale applications. I value responsibility above all.
                 </p>
                 <div>
                     <h3 class="text-2xl md:text-3xl font-bold mb-6 text-center dark:text-light text-primary">Work expirience</h3>
@@ -77,12 +71,12 @@ const listOfWorks = ref([
     {
         position: 'Front-end developer | DS xpress',
         terms: 'January 2024 - present time (remote, full-time)',
-        description: 'Developing a custom CRM and CMS system for an artist booking platform. Focus on component architecture, performance optimization, and user experience.'
+        description: 'Delivered a fully-typed Vue 3 + TypeScript architecture (Pinia, composables, route guards), integrated multilingual support (Vue-i18n), secure payments via NMI Collect.js with Apple/Google Pay, and a type-safe API. Also developed a CMS with drag-and-drop content management and a custom interactive scheduling calendar with advanced time-zone handling.'
     },
     {
         position: 'Front-end developer | Mobile Programming LLC',
         terms: 'November 2022 - January 2024',
-        description: 'Worked on e-commerce features and CRM development for a security company. Delivered user-friendly interfaces and contributed to business process automation.'
+        description: 'Worked on e-commerce features and CRM development for a security company. Optimized application performance through lazy loading, code splitting, and legacy code refactoring, while migrating from Vue 2 to Vue 3 without regression. Implemented WebSockets for real-time chat communication and worked with SSR using Blade templates to improve rendering and user experience.'
     }
 ])
 
